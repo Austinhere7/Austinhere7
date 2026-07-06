@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 
-I’m a Computer Science Engineering undergraduate specializing in **Frontend Development** and intuitive **UI design**.  
+I’m a Computer Science Engineering undergraduate specializing in **Full-Stack Development** and intuitive **UI design**.  
 
 I am well-equipped with modern AI tools and efficient development workflows to enhance productivity, optimize solutions, and deliver intelligent, user-focused digital experiences.  
 
