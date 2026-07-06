@@ -1,7 +1,7 @@
 # Hi 👋 I'm Austin Shajan  
 
 🎓 Computer Science And Engineering Undergraduate  
-💻 Frontend Designer And Developer | UI Enthusiast | AI Tools Explorer  
+💻 Full-Stack Developer | UI Enthusiast | AI Tools Explorer  
 
 ---
 
